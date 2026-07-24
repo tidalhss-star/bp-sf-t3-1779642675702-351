@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity 7ee253de6be02531</metadata>
-  <rect width="64" height="64" rx="12" fill="hsl(82 60% 35%)"/>
-  <path d="M38 0h26v64H24Z" fill="hsl(213 62% 67%)" opacity="0.82"/>
-  <g transform="rotate(96 32 32)" opacity="0.42"><path d="M12 34h40M32 12v40" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">SF</text>
+  <title>PBN 빌더</title>
+  <rect width="64" height="64" rx="11" fill="hsl(82 60% 27%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(220 68% 59%)" opacity="0.16"/>
+  <g transform="rotate(0 32 32)"><path d="M32 12 52 32 32 52 12 32Z" fill="none" stroke="hsl(82 24% 96%)" stroke-width="8" stroke-linejoin="round"/><path d="M32 24 40 32 32 40 24 32Z" fill="hsl(220 68% 59%)"/></g>
 </svg>
